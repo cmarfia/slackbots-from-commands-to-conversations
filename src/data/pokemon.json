@@ -1,0 +1,273 @@
+[
+    {
+        "name": "bulbasaur",
+        "id": 1,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+        "color": "#A0D4B8",
+        "documents": [
+            "starter",
+            "small dinosaur with plant",
+            "grass type first generation starter",
+            "blue-green",
+            "evolves to ivysaur"
+        ]
+    },
+    {
+        "name": "ivysaur",
+        "id": 2,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+        "color": "#73B9C8",
+        "documents": [
+            "evolves from bulbasaur",
+            "evolves to venusaur",
+            "dinosaur with plant",
+            "dinosaur with flower",
+            "blue-green"
+        ]
+    },
+    {
+        "name": "venusaur",
+        "id": 3,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+        "color": "#73B9B6",
+        "documents": [
+            "evolves from venusaur",
+            "large dinosaur with flower",
+            "Big dinosaur with flower",
+            "grass type",
+            "blue-green"
+        ]
+    },
+    {
+        "name": "charmander",
+        "id": 4,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+        "color": "#F3B184",
+        "documents": [
+            "starter",
+            "small orange dragon lizard with fire on tail",
+            "dinosaur with a flame on tail",
+            "fire type",
+            "orange",
+            "evolves to charmeleon"
+        ]
+    },
+    {
+        "name": "charmeleon",
+        "id": 5,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+        "color": "#CC654E",
+        "documents": [
+            "evolves from charmander",
+            "evolves to charizard",
+            "red dragon lizard with fire on tail",
+            "dinosaur with a flame on tail",
+            "fire type",
+            "red"
+        ]
+    },
+    {
+        "name": "charizard",
+        "id": 6,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+        "color": "#FAA767",
+        "documents": [
+            "evolves from charmeleon",
+            "orange dragon lizard with fire on tail",
+            "dinosaur with a flame on tail",
+            "orange dragon with wings",
+            "fire type",
+            "orange"
+        ]
+    },
+    {
+        "name": "squirtle",
+        "id": 7,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+        "color": "#82C5D5",
+        "documents": [
+            "evolves to wartortle",
+            "starter",
+            "blue",
+            "small blue turtle",
+            "water type"
+        ]
+    },
+    {
+        "name": "wartortle",
+        "id": 8,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+        "color": "#B7C7E8",
+        "documents": [
+            "evolves from squirtle",
+            "evolves to blastoise",
+            "blue",
+            "blue water turtle",
+            "water type"
+        ]
+    },
+    {
+        "name": "blastoise",
+        "id": 9,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+        "color": "#83ABD7",
+        "documents": [
+            "evolves from wartortle",
+            "blue",
+            "big blue water turtle with cannons",
+            "big blue water tortoise with cannons",
+            "water type"
+        ]
+    },
+    {
+        "name": "caterpie",
+        "id": 10,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+        "color": "#8CC76A",
+        "documents": [
+            "evolves to metapod",
+            "green",
+            "green caterpillar",
+            "bug type"
+        ]
+    },
+    {
+        "name": "metapod",
+        "id": 11,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+        "color": "#87B646",
+        "documents": [
+            "evolves from caterpie",
+            "evolves to butterfree",
+            "caterpillar cacoon",
+            "bug type"
+        ]
+    },
+    {
+        "name": "butterfree",
+        "id": 12,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+        "color": "#5D5677",
+        "documents": [
+            "evolves from metapod",
+            "purple butterfly",
+            "bug type"
+        ]
+    },
+    {
+        "name": "pikachu",
+        "id": 25,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+        "color": "#FFF988",
+        "documents": [
+            "evolves from pichu",
+            "evolves to raichu",
+            "yellow electric mouse",
+            "electric type",
+            "yellow mouse"
+        ]
+    },
+    {
+        "name": "raichu",
+        "id": 26,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+        "color": "#FFDF63",
+        "documents": [
+            "thunder stone",
+            "evolves from pikachu",
+            "yellow electric mouse",
+            "electric type",
+            "yellow mouse"
+        ]
+    },
+    {
+        "name": "gastly",
+        "id": 92,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
+        "color": "#110B0B",
+        "documents": [
+            "ghost type",
+            "floating purple and black ghost ball",
+            "evolves to haunter"
+        ]
+    },
+    {
+        "name": "haunter",
+        "id": 93,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
+        "color": "#796F8F",
+        "documents": [
+            "ghost type",
+            "floating purple ghost with hands",
+            "evolves from gastly",
+            "evolves to gengar"
+        ]
+    },
+    {
+        "name": "gengar",
+        "id": 94,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+        "color": "#A59EBD",
+        "documents": [
+            "ghost type",
+            "floating purple ghost",
+            "evolves from haunter"
+        ]
+    },
+    {
+        "name": "articuno",
+        "id": 144,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
+        "color": "#309BCA",
+        "documents": [
+            "Legendary Bird",
+            "type ice flying"
+        ]
+    },
+    {
+        "name": "zapdos",
+        "id": 145,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
+        "color": "#FFF381",
+        "documents": [
+            "Legendary Bird",
+            "type electric flying"
+        ]
+    },
+    {
+        "name": "moltres",
+        "id": 146,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
+        "color": "#E9B95F",
+        "documents": [
+            "Legendary Bird",
+            "type fire flying"
+        ]
+    },
+    {
+        "name": "pichu",
+        "id": 172,
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png",
+        "color": "#FDF5A8",
+        "documents": [
+            "evolves friendship",
+            "evolves to pikachu",
+            "baby yellow electric mouse",
+            "electric type",
+            "yellow mouse"
+        ]
+    },
+    {
+        "name": "absol",
+        "id": 359,
+        "sprite": "https://www.serebii.net/sunmoon/pokemon/359.png",
+        "color": "#7D8AB4",
+        "documents": [
+            "bringer of doom",
+            "dark type",
+            "white dog",
+            "can predict natural disasters",
+            "white known for appearing before disasters"
+        ]
+    }
+]

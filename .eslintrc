@@ -1,0 +1,81 @@
+{
+    "plugins": [],
+    "env": {
+        "node": true,
+        "es6": true
+    },
+    "parserOptions": {
+        "sourceType": "module",
+        "ecmaVersion": 8,
+        "ecmaFeatures": {}
+    },
+    "extends": "airbnb-base",
+    "rules": {
+        "comma-dangle": [
+            "error",
+            "never"
+        ],
+        "linebreak-style": [
+            "error",
+            "unix"
+        ],
+        "quotes": [
+            "warn",
+            "single",
+            {
+                "allowTemplateLiterals": true
+            }
+        ],
+        "no-unused-vars": [
+            "error",
+            {
+                "varsIgnorePattern": "^[A-Z].*"
+            }
+        ],
+        "semi": [
+            "error",
+            "always"
+        ],
+        "no-console": [
+            "off"
+        ],
+        "max-len": [
+            "off"
+        ],
+        "indent": [
+            "error",
+            4
+        ],
+        "object-curly-spacing": [
+            "error",
+            "always"
+        ],
+        "object-curly-newline": [
+            "off"
+        ],
+        "object-property-newline": [
+            "off"
+        ],
+        "prefer-template": [
+            "off"
+        ],
+        "prefer-destructuring": [
+            "warn"
+        ],
+        "one-var": [
+            "off"
+        ],
+        "one-var-declaration-per-line": [
+            "off"
+        ],
+        "quote-props": [
+            "warn"
+        ],
+        "arrow-body-style": "off",
+        "no-param-reassign": "warn",
+        "no-shadow": "off",
+        "consistent-return": "off",
+        "no-plusplus": "off",
+        "no-underscore-dangle": "off"
+    }
+}

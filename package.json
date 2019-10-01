@@ -1,0 +1,22 @@
+{
+  "name": "slackbots-from-commands-to-conversations",
+  "version": "1.0.0",
+  "description": "Codebase for 2019 DevUp conference talk: Slackbots — from commands to conversations.",
+  "main": "./src/completed/index.js",
+  "scripts": {
+    "start": "node ./src/start/index.js",
+    "completed": "node ./src/completed/index.js",
+    "lint": "node ./node_modules/eslint/bin/eslint --ext .js ./src/"
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/cmarfia/slackbots-from-commands-to-conversations#readme",
+  "dependencies": {
+    "@slack/rtm-api": "^5.0.1",
+    "@slack/web-api": "^5.0.1",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.2",
+    "natural": "^0.6.3",
+    "nodemon": "^1.19.0"
+  }
+}
