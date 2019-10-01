@@ -2,7 +2,7 @@
 
 This is the codebase for 2019 DevUp conference talk. 
 
-The slide desk for the talk can be found [here](presentation.pptx).
+The slides for the talk can be found [here](presentation.pptx).
 
 ## Talk Information 
 
